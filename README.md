@@ -8,7 +8,7 @@ The MySQL Plugin lets you update and query your data from your MySQL Server. Bui
 Technical Details
 Features:
 
-Connect to MySQL DB
+Connect to MySQL DB\n
 Disconnect MySQL DB
 Get MySQL DB Connection Status
 Reconnect MySQL DB
