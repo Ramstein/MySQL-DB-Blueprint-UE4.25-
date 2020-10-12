@@ -4,7 +4,7 @@ Control all of the functionalities of your MySQL Database Server right from your
 The MySQL Plugin lets you update and query your data from your MySQL Server. Build your own queries and select and update data to your database directly from Blueprints.
 
 
-Technical Details
+## Technical Details
 Features: 
 
 Connect to MySQL DB
@@ -56,7 +56,7 @@ Example Project : https://drive.google.com/drive/folders/1YBiHBIJ0Hv3tJ-Yi2h6o3p
 
 
 
-Code Modules: 
+## Code Modules: 
  JDBC
 MYSQLX
 Number of Blueprints: 0
@@ -73,7 +73,7 @@ Documentation: https://github.com/RamsteinWR/MySQL-DB-Blueprint-UE4.25-
 
 Example Project: https://drive.google.com/drive/folders/1YBiHBIJ0Hv3tJ-Yi2h6o3piZZsS7_KeL?usp=sharing
 
-Important/Additional Notes: 
+## Important/Additional Notes: 
        1. Add the Plugin to the Project, 
        2. If requires the build then remove the project.sln, .vs, Bineries, DerivedDataCache, Intermediate & Saved Folders from Project root folder.
        3. Right click on the project.uproject and hit Generate Visual Studio Project Files. On Completion,
