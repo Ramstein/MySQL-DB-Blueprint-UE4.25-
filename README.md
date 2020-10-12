@@ -55,10 +55,7 @@ Supported Development Platforms: Win64, Win32
 
 Supported Target Build Platforms: Win64, Win32
 
-
-
 Example Project : https://drive.google.com/drive/folders/1YBiHBIJ0Hv3tJ-Yi2h6o3piZZsS7_KeL?usp=sharing
-
 
 
 ## Code Modules: 
@@ -77,19 +74,18 @@ Supported Target Build Platforms: Win64 & Win32
 
 Documentation: https://github.com/RamsteinWR/MySQL-DB-Blueprint-UE4.25-
 
-Example Project: https://drive.google.com/drive/folders/1YBiHBIJ0Hv3tJ-Yi2h6o3piZZsS7_KeL?usp=sharing
 
 ## Important/Additional Notes: 
 
-Add the Plugin to the Project,
+1. Add the Plugin to the Project,
 
-If requires the build then remove the project.sln, .vs, Bineries, DerivedDataCache, Intermediate & Saved Folders from Project root folder.
+2. If requires the build then remove the project.sln, .vs, Bineries, DerivedDataCache, Intermediate & Saved Folders from Project root folder.
 
-Right click on the project.uproject and hit Generate Visual Studio Project Files. On Completion,
+3. Right click on the project.uproject and hit Generate Visual Studio Project Files. On Completion,
 
-Open the file project.uproject and build it one more time.
+4. Open the file project.uproject and build it one more time.
 
-Now use it.
+5. Now use it.
 
 
 
