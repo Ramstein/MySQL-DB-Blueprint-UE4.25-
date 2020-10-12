@@ -1,4 +1,5 @@
 # MySQL-DB-Blueprint-UE4.25-
+![MySQL UE4.25](https://live.staticflickr.com/65535/50459751628_082179b1cf_o.png)
 Control all of the functionalities of your MySQL Database Server right from your Ue4 Blueprint Editor. Execute queries and retrieve data from your database.
 
 The MySQL Plugin lets you update and query your data from your MySQL Server. Build your own queries and select and update data to your database directly from Blueprints.
@@ -6,44 +7,48 @@ The MySQL Plugin lets you update and query your data from your MySQL Server. Bui
 
 ## Technical Details
 Features: 
+![MySQL UE4.25](https://live.staticflickr.com/65535/50460630302_db0aab17ba_o.png)
+![MySQL UE4.25](https://live.staticflickr.com/65535/50460462766_e757b0fa7c_o.png)
+![MySQL UE4.25](https://live.staticflickr.com/65535/50460460811_c6a6cac5e6_o.png)
+![MySQL UE4.25](https://live.staticflickr.com/65535/50460459326_7e32d2bd61_o.png)
 
-Connect to MySQL DB
+1. Connect to MySQL DB
 
-Disconnect MySQL DB
+2. Disconnect MySQL DB
 
-Get MySQL DB Connection Status
+3. Get MySQL DB Connection Status
 
-Reconnect MySQL DB
+4. Reconnect MySQL DB
 
-MySQL DB Connect Test
+5. MySQL DB Connect Test
 
-MySQL DB Create Database
+6. MySQL DB Create Database
 
-MySQL DB Create DB Table
+7. MySQL DB Create DB Table
 
-MySQL DB Query Data
+8. MySQL DB Query Data
 
-MySQL DB Execute
+9. MySQL DB Execute
 
-MySQL DB Insert Single Data
+10. MySQL DB Insert Single Data
 
-MySQL DB Delete Single Data
+11. MySQL DB Delete Single Data
 
-MySQL DB Update Single Data
+12. MySQL DB Update Single Data
 
-MySQL DB Drop Database
+13. MySQL DB Drop Database
 
-MySQL DB  Drop Database Table
+14. MySQL DB  Drop Database Table
 
-MySQL DB  Execute Show Message On Screen
+15. MySQL DB  Execute Show Message On Screen
 
-Unpack MySQL Data To BP Struct
+16. Unpack MySQL Data To BP Struct
 
-Unpack MySQL Data TO BP Struct Array
+17. Unpack MySQL Data TO BP Struct Array
 
-Fill BP Struct Result Data
+18. Fill BP Struct Result Data
 
-Set BP Struct Field Value
+19. Set BP Struct Field Value
 
 
 Supported Development Platforms: Win64, Win32
@@ -57,8 +62,9 @@ Example Project : https://drive.google.com/drive/folders/1YBiHBIJ0Hv3tJ-Yi2h6o3p
 
 
 ## Code Modules: 
- JDBC
-MYSQLX
+1. JDBC
+2. MYSQLX
+
 Number of Blueprints: 0
 
 Number of C++ Classes: 2
@@ -74,11 +80,16 @@ Documentation: https://github.com/RamsteinWR/MySQL-DB-Blueprint-UE4.25-
 Example Project: https://drive.google.com/drive/folders/1YBiHBIJ0Hv3tJ-Yi2h6o3piZZsS7_KeL?usp=sharing
 
 ## Important/Additional Notes: 
-       1. Add the Plugin to the Project, 
-       2. If requires the build then remove the project.sln, .vs, Bineries, DerivedDataCache, Intermediate & Saved Folders from Project root folder.
-       3. Right click on the project.uproject and hit Generate Visual Studio Project Files. On Completion,
-       4. Open the file project.uproject and build it one more time.
-       5. Now use it.
+
+Add the Plugin to the Project,
+
+If requires the build then remove the project.sln, .vs, Bineries, DerivedDataCache, Intermediate & Saved Folders from Project root folder.
+
+Right click on the project.uproject and hit Generate Visual Studio Project Files. On Completion,
+
+Open the file project.uproject and build it one more time.
+
+Now use it.
 
 
 
