@@ -55,7 +55,7 @@ Supported Development Platforms: Win64, Win32
 
 Supported Target Build Platforms: Win64, Win32
 
-MYSQL DB Plugin : https://drive.google.com/file/d/1RtRG720I9GFbKWsgPAXsmfleDO28N9kZ/view?usp=sharing
+MYSQL DB Plugin : https://drive.google.com/drive/folders/1dRNDh6hgGjYu_mQqLZ-ielyzPP5MD5tY?usp=sharing
 
 Example Project : https://drive.google.com/drive/folders/1YBiHBIJ0Hv3tJ-Yi2h6o3piZZsS7_KeL?usp=sharing
 
